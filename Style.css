@@ -1,0 +1,15 @@
+/* Estilo básico para os botões */
+button {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    background-color: #9b30ff; /* Lilás */
+    color: #fff;
+  }
+  
+  button:hover {
+    background-color: #ff69b4; /* Rosa */
+  }
+  
+  /* Adicione mais estilos conforme necessário */
+  
